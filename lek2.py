@@ -12,3 +12,4 @@ if age <18:
     print("Du har inte rätt ålder ännu")
 else:
     print("Du har fyllt 18")
+

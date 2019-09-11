@@ -32,7 +32,7 @@ print(firstName.upper())
 
 gamertag = "BlYaTMaChInE"
 
-print(gamertag.lower)
+#print(gamertag.lower)
 
 
 
